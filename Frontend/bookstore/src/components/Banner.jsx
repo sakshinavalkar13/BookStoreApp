@@ -1,23 +1,20 @@
 import React from "react";
 
-import banner from "../../public/Banner.jpg"
+import banner from "../../public/Banner.png"
 
 function Banner(){
     return (
 
         <>
-        <div className="max-w-screen-2xl container mx-auto md:px-20 px-4 flex flex-col md:flex-row my-10">
-            <div className="w-full  order-2  md:order-1 md:w-1/2 mt-12 md:mt-32" >
+        <div className="max-w-screen-2xl container mx-auto md:px-20 px-4 flex flex-col md:flex-row my-10 ">
+            <div className="w-full  order-2  md:order-1 md:1/2 mt-12 md:mt-32" >
             <div className="space-y-12">
                 <h1 className="text-4xl font-bold">
                 Hello, welcome here to learn something <span className="text-pink-500">new everyday!!!</span>
 
             </h1>
             <p className="text-xl"> 
-                Learn, ipsum dolor sit amet consectetur adipisicing elit. Dolor,et 
-                totam.Tempora amet atque expedita,quae corrupti totam sed pariatur 
-                corporis at veniam est voluptas animi!
-
+            From thrilling adventures to insightful knowledge, discover books that will keep you hooked. Start exploring today
             </p>
             <label className="input input-bordered flex items-center gap-2">
   <svg
@@ -30,7 +27,7 @@ function Banner(){
     <path
       d="M15 6.954 8.978 9.86a2.25 2.25 0 0 1-1.956 0L1 6.954V11.5A1.5 1.5 0 0 0 2.5 13h11a1.5 1.5 0 0 0 1.5-1.5V6.954Z" />
   </svg>
-  <input type="text" className="grow" placeholder="Email" />
+  <input type="text" className="grow" placeholder="Email"/>
 </label>
 
             </div>
@@ -40,10 +37,10 @@ function Banner(){
             
             </div>
 
-            <div className=" order-1 w-full md:w-1/2">
-            <img src={banner}  className=" w-92  h-92"alt="" />
-            
-            </div>
+            <div className="order-1 w-full md:1/2 ">
+  <img src={banner} className="w-92 h-92 " alt="" />
+</div>
+
 
 
 
