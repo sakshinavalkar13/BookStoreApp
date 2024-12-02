@@ -1,0 +1,277 @@
+[
+    {
+        "id":1,
+        "name":"Story Book",
+        "title":"Enchanted Forest Adventure",
+        "price":0,
+        "category":"free",
+        "image":"https://img.freepik.com/premium-photo/enchanted-forest-adventure-kid-s-book-cover_931866-99377.jpg?w=360"
+    },
+
+    {
+        "id": 3,
+        "name": "Free Science Fiction Book",
+        "title": "The Galactic Voyage",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/alien-space-scene_1308-49834.jpg?t=st=1719126455~exp=1719130055~hmac=1bb9e058f7c8c781728cfc6ba30ce6235d37e40d732fdfe63287fda4a714b785&w=826"
+    },
+    {
+        "id": 4,
+        "name": "Free Cooking Book",
+        "title": "Cooking with Joy",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-photo/smiling-happy-male-chef-with-fresh-vegetables-adding-red-peppers-into-meal-white-kitchen_140725-97120.jpg?t=st=1719126571~exp=1719130171~hmac=0c6f151534689867eeecd825b38b4645c1ddb7561657de22a1ec978e755f3057&w=826"
+    },
+    {
+        "id": 5,
+        "name": "Free Historical Fiction Book",
+        "title": "Journey Through Time",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-photo/door-leading-magical-world_23-2151038238.jpg?t=st=1719126673~exp=1719130273~hmac=83d50369ff3ef2ef78f23c4d85e0e6100df078dc3feb21ba014134c1f171891a&w=826"
+    },
+    {
+        "id": 6,
+        "name": "Free Horror Book",
+        "title": "Shadows of the Forgotten",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-photo/low-view-man-holding-skull-black-fog_23-2148277541.jpg?t=st=1719126928~exp=1719130528~hmac=7a451ac133268e4d6aeb6d2406cfadb95191d613f469994c0f330342c9541bf7&w=826"
+    },
+    {
+        "id": 7,
+        "name": "Free Gardening Guide",
+        "title": "Gardening for Beginners",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/premium-photo/spring-flower-garden-tools_75924-3753.jpg?w=740"
+    },
+    {
+        "id": 8,
+        "name": "Free Self-Help Book",
+        "title": "The Art of Mindfulness",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-photo/lifestyle-people-living-boho-interiors_23-2149662243.jpg?t=st=1719127036~exp=1719130636~hmac=64b996cd1b50d0c5c3f9e8862d1895125c13b272e886abca61ff26b06ece8115&w=360"
+    },
+    {
+        "id": 9,
+        "name": "Free Children's Literature",
+        "title": "Fables and Fairytales",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/premium-photo/book-with-picture-forest-waterfall_853177-18402.jpg?w=826"
+    },
+    {
+        "id": 10,
+        "name": "Free Romantic Book",
+        "title": "Whispers of the Heart",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/premium-photo/romantic-couple-lovers-park-trees-romantic-date-night-stars-valentines-day-illustration_721791-2379.jpg?w=826"
+    },
+    {
+        "id": 11,
+        "name": "Free Health & Fitness Book",
+        "title": "Yoga for Wellness",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/premium-photo/woman-reading-file-while-crouching-park_1048944-18317696.jpg?w=360"
+    }
+]
+
+
+
+
+
+[
+    {
+        "id": 1,
+        "name": "Story Book",
+        "title": "Enchanted Forest Adventure",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/premium-photo/enchanted-forest-adventure-kid-s-book-cover_931866-99377.jpg?w=360"
+    },
+    {
+        "id": 3,
+        "name": "Free Science Fiction Book",
+        "title": "The Galactic Voyage",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/alien-space-scene_1308-49834.jpg?t=st=1719126455~exp=1719130055~hmac=1bb9e058f7c8c781728cfc6ba30ce6235d37e40d732fdfe63287fda4a714b785&w=826"
+    },
+    {
+        "id": 4,
+        "name": "Free Cooking Book",
+        "title": "Cooking with Joy",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-photo/smiling-happy-male-chef-with-fresh-vegetables-adding-red-peppers-into-meal-white-kitchen_140725-97120.jpg?t=st=1719126571~exp=1719130171~hmac=0c6f151534689867eeecd825b38b4645c1ddb7561657de22a1ec978e755f3057&w=826"
+    },
+    {
+        "id": 5,
+        "name": "Free Historical Fiction Book",
+        "title": "Journey Through Time",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-photo/door-leading-magical-world_23-2151038238.jpg?t=st=1719126673~exp=1719130273~hmac=83d50369ff3ef2ef78f23c4d85e0e6100df078dc3feb21ba014134c1f171891a&w=826"
+    },
+    {
+        "id": 6,
+        "name": "Free Horror Book",
+        "title": "Shadows of the Forgotten",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-photo/low-view-man-holding-skull-black-fog_23-2148277541.jpg?t=st=1719126928~exp=1719130528~hmac=7a451ac133268e4d6aeb6d2406cfadb95191d613f469994c0f330342c9541bf7&w=826"
+    },
+    {
+        "id": 7,
+        "name": "Free Gardening Guide",
+        "title": "Gardening for Beginners",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/premium-photo/spring-flower-garden-tools_75924-3753.jpg?w=740"
+    },
+    {
+        "id": 8,
+        "name": "Free Self-Help Book",
+        "title": "The Art of Mindfulness",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-photo/lifestyle-people-living-boho-interiors_23-2149662243.jpg?t=st=1719127036~exp=1719130636~hmac=64b996cd1b50d0c5c3f9e8862d1895125c13b272e886abca61ff26b06ece8115&w=360"
+    },
+    {
+        "id": 9,
+        "name": "Free Children's Literature",
+        "title": "Fables and Fairytales",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/premium-photo/book-with-picture-forest-waterfall_853177-18402.jpg?w=826"
+    },
+    {
+        "id": 10,
+        "name": "Free Romantic Book",
+        "title": "Whispers of the Heart",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/premium-photo/romantic-couple-lovers-park-trees-romantic-date-night-stars-valentines-day-illustration_721791-2379.jpg?w=826"
+    },
+    {
+        "id": 11,
+        "name": "Free Health & Fitness Book",
+        "title": "Yoga for Wellness",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/premium-photo/woman-reading-file-while-crouching-park_1048944-18317696.jpg?w=360"
+    },
+    {
+        "id": 12,
+        "name": "Reasons Mommy Drinks",
+        "title": "Reasons Mommy Drinks",
+        "price": 12.99,
+        "author": "Lyranda Martin-Evans",
+        "category": "Humor & Entertainment",
+        "image": "http://ecx.images-amazon.com/images/I/41hJGXQAq%2BL.jpg"
+    },
+    {
+        "id": 13,
+        "name": "Manual of High Risk Pregnancy and Delivery, 5e",
+        "title": "Manual of High Risk Pregnancy and Delivery, 5e",
+        "price": 29.99,
+        "author": "Elizabeth S. Gilbert RNC MS FNPc",
+        "category": "Medical Books",
+        "image": "http://ecx.images-amazon.com/images/I/41eD1Ln0KlL.jpg"
+    },
+    {
+        "id": 14,
+        "name": "Oscillations and Waves: An Introduction",
+        "title": "Oscillations and Waves: An Introduction",
+        "price": 45.5,
+        "author": "Richard Fitzpatrick",
+        "category": "Science & Math",
+        "image": "http://ecx.images-amazon.com/images/I/41XfKAnD%2BgL.jpg"
+    },
+    {
+        "id": 15,
+        "name": "DAMAGES",
+        "title": "DAMAGES",
+        "price": 18.75,
+        "author": "Barry Werth",
+        "category": "Law",
+        "image": "http://ecx.images-amazon.com/images/I/51hCxlTZ5EL.jpg"
+    },
+    {
+        "id": 16,
+        "name": "Sermons on Timothy and Titus (16th-17th Century Facsimile Edition)",
+        "title": "Sermons on Timothy and Titus (16th-17th Century Facsimile Edition)",
+        "price": 15.99,
+        "author": "John Calvin",
+        "category": "Christian Books & Bibles",
+        "image": "http://ecx.images-amazon.com/images/I/41oo7KfL5ML.jpg"
+    },
+    {
+        "id": 17,
+        "name": "Oils and Vinegars: Discovering and Enjoying Gourmet Oils and Vinegars",
+        "title": "Oils and Vinegars: Discovering and Enjoying Gourmet Oils and Vinegars",
+        "price": 22.0,
+        "author": "Liz Franklin",
+        "category": "Cookbooks, Food & Wine",
+        "image": "http://ecx.images-amazon.com/images/I/51U6eq7vu4L.jpg"
+    },
+    {
+        "id": 18,
+        "name": "The Handbook of Painted Decoration: The Tools, Materials, and Step-by-Step Techniques of Trompe L'Oeil Painting",
+        "title": "The Handbook of Painted Decoration: The Tools, Materials, and Step-by-Step Techniques of Trompe L'Oeil Painting",
+        "price": 39.99,
+        "author": "Yannick Guegan",
+        "category": "Arts & Photography",
+        "image": "http://ecx.images-amazon.com/images/I/51BLmSCM6dL.jpg"
+    },
+    {
+        "id": 19,
+        "name": "Stage Plays from the Classics: One-Act Adaptations from Famous Short Stories, Novels, and Plays",
+        "title": "Stage Plays from the Classics: One-Act Adaptations from Famous Short Stories, Novels, and Plays",
+        "price": 19.99,
+        "author": "Joellen Bland",
+        "category": "Teen & Young Adult",
+        "image": "http://ecx.images-amazon.com/images/I/41ANPWYHPBL.jpg"
+    },
+    {
+        "id": 20,
+        "name": "Runner's World Meals on the Run: 150 energy-packed recipes in 30 minutes or less",
+        "title": "Runner's World Meals on the Run: 150 energy-packed recipes in 30 minutes or less",
+        "price": 17.49,
+        "author": "Joanna Sayago Golub",
+        "category": "Cookbooks, Food & Wine",
+        "image": "http://ecx.images-amazon.com/images/I/61INLFujcpL.jpg"
+    },
+    {
+        "id": 21,
+        "name": "Mosaics Inside & Out: Patterns and Inspirations for 17 Mosaic Projects",
+        "title": "Mosaics Inside & Out: Patterns and Inspirations for 17 Mosaic Projects",
+        "price": 28.0,
+        "author": "Doreen Mastandrea",
+        "category": "Crafts, Hobbies & Home",
+        "image": "http://ecx.images-amazon.com/images/I/61zJetR%2BnFL.jpg"
+    },
+    {
+        "id": 22,
+        "name": "She Appears! Encounters with Kwan Yin, Goddess of Compassion",
+        "title": "She Appears! Encounters with Kwan Yin, Goddess of Compassion",
+        "price": 9.99,
+        "author": "Sandy Boucher",
+        "category": "Religion & Spirituality",
+        "image": "http://ecx.images-amazon.com/images/I/61Yo1Mi1JOL.jpg"
+    },
+    {
+        "id": 23,
+        "name": "A Companion to Museum Studies",
+        "title": "A Companion to Museum Studies",
+        "price": 32.5,
+        "category": "Business & Money",
+        "image": "http://ecx.images-amazon.com/images/I/41OSYKAWwFL.jpg"
+    }
+]
