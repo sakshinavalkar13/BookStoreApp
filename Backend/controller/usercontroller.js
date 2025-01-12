@@ -32,25 +32,37 @@ export const signup =async (req,res)=>{
 };
 
 
-export const login = async (req,res)=>{
-    try{
-        const {email,password} = req.body;
-        const user = await User.findOne({email});
+export const login = async (req, res) => {
+    try {
+        const { email, password } = req.body;
 
-        const isMatch =await bcrypt.compare(password,user.password);
+        if (!email || !password) {
+            return res.status(400).json({ message: "Email and password are required" });
+        }
 
-        if(!user || !isMatch){
-            return res.status(400).json({message:"Invalid user credentials"});
-        }else{
-            res.status(200).json({message:"Login Successfull",
-                user:{
-                    _id:user._id,
-                    name:user.name,
-                    email:user.email
-                }
-            })}
-    }catch(error){
-        console.log("Error"+error.message)
-        res.status(500).json({message:"Internal server error"})
+        const user = await User.findOne({ email });
+
+        // Check if user exists before accessing password
+        if (!user) {
+            return res.status(400).json({ message: "Invalid user credentials" });
+        }
+
+        const isMatch = await bcrypt.compare(password, user.password);
+
+        if (!isMatch) {
+            return res.status(400).json({ message: "Invalid user credentials" });
+        }
+
+        res.status(200).json({
+            message: "Login Successful",
+            user: {
+                _id: user._id,
+                name: user.name,
+                email: user.email,
+            },
+        });
+    } catch (error) {
+        console.error("Error in login:", error.message);
+        res.status(500).json({ message: "Internal server error" });
     }
-}
+};
